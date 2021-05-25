@@ -1,6 +1,6 @@
 [![wercker status](https://app.wercker.com/status/538e72d657626c989c8e03811c9b2513/m/master "wercker status")](https://app.wercker.com/project/bykey/538e72d657626c989c8e03811c9b2513)
 
-# Ethereum.org site
+# Vapory.org site
 
 The main Ethereum website built with [Meteor](https://www.meteor.com/).
 
